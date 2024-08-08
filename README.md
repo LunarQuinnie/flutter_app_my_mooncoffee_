@@ -1,6 +1,6 @@
-# final_app
+# Flutter App Coffee
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
